@@ -42,11 +42,7 @@
 
 
 ![Python](https://img.shields.io/badge/Python-Beginner-yellow?logo=python&logoColor=white)
-![Helm](https://img.shields.io/badge/Package-Helm-lightblue?logo=helm&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-red?logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?logo=github&logoColor=white)
-![LFS162](https://img.shields.io/badge/Linux%20Foundation-DevOps&SRE%20LFS162-007ACC?logo=linuxfoundation&logoColor=white)
 
 ---
 
@@ -96,11 +92,8 @@
   <a href="mailto:ahmedessam.connect@gmail.com" title="Send Email">
     <img src="https://img.shields.io/badge/Contact-Me-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
-  <a href="https://github.com/ahmedessam-official" target="_blank" title="GitHub Profile">
-    <img src="https://github.com/ahmedessam-official/ahmedessam-official/blob/main/Github-desktop-logo-symbol.svg.png?raw=true" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/ahmed-essam-3845433b4/" target="_blank" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Khaled-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Essam-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
 </div>
 
@@ -108,7 +101,7 @@
 
 <p align="center"><b>🌍 DevOps Learning Journey — Always Learning, Always Building.</b></p>
 
-Ali Khaled  
+Ahmed Essam  
 🚀 DevOps Student | ☁️ Cloud & Automation Enthusiast 💬 Learning one container at a time!
 
 
